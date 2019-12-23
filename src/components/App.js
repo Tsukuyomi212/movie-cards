@@ -8,10 +8,10 @@ export default class App extends Component {
         super();
 
         this.state = {
-            title: 'React Movie Cards'
+            title: 'React Movie Cards',
         };
     }
-
+    
     render() {
         return (
             <div>
